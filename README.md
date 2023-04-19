@@ -1,2 +1,2 @@
 # String-Modifiers
-extra classes for manipulating the python class/object type "string".
+extra classes for manipulating the python class/object type `string`.
